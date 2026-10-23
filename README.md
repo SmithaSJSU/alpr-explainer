@@ -1,3 +1,4 @@
 # alpr-explainer
 
-https://github.com/SmithaSJSU/alpr-explainer/deployments/github-pages
+https://smithasjsu.github.io/alpr-explainer/
+
